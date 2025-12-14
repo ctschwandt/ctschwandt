@@ -72,4 +72,3 @@ Built experimental tooling, ran simulations, and presented results to faculty.
 📫 **Contact:**  
 - GitHub: https://github.com/ctschwandt  
 - LinkedIn: https://linkedin.com/in/ctschwandt  
-- Email: ctschwandt1@cougars.ccis.edu
