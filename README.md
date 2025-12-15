@@ -1,90 +1,47 @@
-# 𝘾𝙤𝙡𝙚 𝙎𝙘𝙝𝙬𝙖𝙣𝙙𝙩
-𝘾𝙤𝙢𝙥𝙪𝙩𝙚𝙧 𝙎𝙘𝙞𝙚𝙣𝙘𝙚 • 𝙂𝙧𝙖𝙥𝙝𝙞𝙘𝙨 • 𝙎𝙮𝙨𝙩𝙚𝙢𝙨
+## Hi, I’m Cole 👋
+
+I’m a Computer Science & Mathematics undergraduate who enjoys building low-level software. Most of my work lives close to the metal: C/C++, OpenGL, assembly, and performance-oriented systems code.
 
 ---
 
-## 👋 About Me
+### 🧩 Things I’ve built
 
-I’m a Computer Science student with a strong interest in **graphics programming**,  
-**game engines**, and **systems-level software**.
+#### 🖥️ MIPS Assembly Interpreter (C++)
+A full MIPS32 interpreter built from scratch.
+- Custom lexer + parser
+- Simulated register file and memory model
+- Branching, labels, arithmetic, and control flow
+- Interactive REPL for stepping through programs
 
-I enjoy building things from first principles:
-- interpreters and parsers
-- real-time rendering systems
-- procedural generation and AI behaviors
+#### 🎮 OpenGL Maze FPS (C++, OpenGL)
+A first-person shooter inside a procedurally generated maze.
+- First-person + top-down camera modes
+- Enemy AI, projectiles, and collision detection
+- Visibility-based rendering for performance
+- Textured environments and dynamic gameplay
 
-I value understanding *how things work under the hood* over relying on black-box abstractions.
+#### ⚙️ Quadtree Collision Simulator (C++, SDL)
+A performance-focused 2D particle simulation.
+- 1000 elastic particle collisions
+- Brute-force vs quadtree collision detection
+- FPS benchmarking and algorithm comparison
+- Optional vector-field “whirlpool” effect
 
----
-
-## 🚀 Featured Projects
-
-### 🎮 OpenGL Maze FPS
-> C++ / OpenGL / GLSL
-
-![Maze FPS Demo](media/maze_demo.gif)
-
-- Custom rendering pipeline
-- Procedural maze generation
-- Enemy AI and collision systems
-- Shader-based visual effects
-
-[Repository link]
-
----
-
-### 🧩 MIPS Assembly Interpreter
-> C++ / Assembly
-
-![Interpreter Demo](media/mips_demo.gif)
-
-- Lexer → parser → executor pipeline
-- Instruction decoding and memory model
-- Built to deeply understand CPU-level execution
-
-[Repository link]
+#### 🌐 Talbook (Python, Flask, MySQL)
+A Facebook/Marketplace-style web app for music gear.
+- User accounts, posts, listings, and messaging
+- Designed relational schema with a teammate
+- Backend-heavy focus on data modeling and routing
 
 ---
 
-## 🧠 Languages & Tools
-
-**Languages**
-- C++, C
-- MIPS Assembly
-- Python
-
-**Graphics / Systems**
-- OpenGL, GLSL
-- GLFW, GLM
-- GDB, Make
-
-**Environment**
-- Linux (Fedora)
-- Git / GitHub
+### 🛠️ Tools I use
+- **Languages:** C/C++, Python, SQL, MIPS Assembly, C#  
+- **Graphics:** OpenGL, FreeGLUT, SDL  
+- **Backend / ML:** Flask, PyTorch, Stable-Baselines3  
+- **Tooling:** Linux, Git, Make, GDB, AddressSanitizer, Bash  
 
 ---
 
-## 📘 Computer Science Coursework
-
-- Data Structures & Algorithms
-- Computer Graphics
-- Computer Organization & Assembly
-- Operating Systems
-- Computer Networks
-- Software Engineering
-
----
-
-## 📐 Mathematics Coursework
-
-- Calculus I–III
-- Linear Algebra
-- Discrete Mathematics
-- Probability & Statistics
-
----
-
-## 📬 Contact
-
-- GitHub: https://github.com/yourusername
-- Email: your.email@domain.com
+📫 **Contact:**  
+- LinkedIn: https://linkedin.com/in/ctschwandt  
