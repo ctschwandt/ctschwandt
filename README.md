@@ -1,74 +1,90 @@
-# 𝙃𝙚𝙡𝙡𝙤, 𝙄’𝙢 𝘾𝙤𝙡𝙚 𝙎𝙘𝙝𝙬𝙖𝙣𝙙𝙩
-
-[![](https://img.shields.io/badge/GitHub-ctschwandt-181717?style=flat-square&logo=github)](https://github.com/ctschwandt)
-[![](https://img.shields.io/badge/Linux-Fedora-294172?style=flat-square&logo=fedora&logoColor=white)](#)
-[![](https://img.shields.io/badge/OpenGL-Graphics-5586A4?style=flat-square&logo=opengl)](#)
+# 𝘾𝙤𝙡𝙚 𝙎𝙘𝙝𝙬𝙖𝙣𝙙𝙩
+𝘾𝙤𝙢𝙥𝙪𝙩𝙚𝙧 𝙎𝙘𝙞𝙚𝙣𝙘𝙚 • 𝙂𝙧𝙖𝙥𝙝𝙞𝙘𝙨 • 𝙎𝙮𝙨𝙩𝙚𝙢𝙨
 
 ---
 
-𝑰 ❤️ 𝑳𝒐𝒘-𝑳𝒆𝒗𝒆𝒍 𝑺𝒚𝒔𝒕𝒆𝒎𝒔, 𝑮𝒓𝒂𝒑𝒉𝒊𝒄𝒔, 𝒂𝒏𝒅 𝑮𝒂𝒎𝒆 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓𝒊𝒏𝒈.
+## 👋 About Me
 
-🎮 Computer Science student focused on **C++**, **graphics programming**, and **systems-level development**  
-🧠 I learn by building things from scratch — parsers, interpreters, engines, and tools  
-🛠️ Strong preference for understanding *how things work under the hood*
+I’m a Computer Science student with a strong interest in **graphics programming**,  
+**game engines**, and **systems-level software**.
+
+I enjoy building things from first principles:
+- interpreters and parsers
+- real-time rendering systems
+- procedural generation and AI behaviors
+
+I value understanding *how things work under the hood* over relying on black-box abstractions.
 
 ---
 
-## 𝗪𝗵𝗮𝘁 𝗜’𝗺 𝗪𝗼𝗿𝗸𝗶𝗻𝗴 𝗢𝗻
+## 🚀 Featured Projects
 
-🕹️ **OpenGL Maze FPS**
+### 🎮 OpenGL Maze FPS
+> C++ / OpenGL / GLSL
+
+![Maze FPS Demo](media/maze_demo.gif)
+
 - Custom rendering pipeline
 - Procedural maze generation
-- Enemy AI, collision systems, HUD
-- Shader-based world effects (Perlin, diamond-square)
+- Enemy AI and collision systems
+- Shader-based visual effects
 
-🧩 **MIPS Assembly Interpreter**
-- Lexer → parser → executor
-- Instruction decoding & memory model
-- Built for deep understanding, not shortcuts
-
-📐 **Graphics & Simulation Experiments**
-- Fractals, noise, terrain
-- Real-time debugging tools
-- Performance instrumentation (gprof, sanitizers)
+[Repository link]
 
 ---
 
-## 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸
+### 🧩 MIPS Assembly Interpreter
+> C++ / Assembly
 
-### Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-555555?style=flat-square&logo=c)
-![Assembly](https://img.shields.io/badge/MIPS-Assembly-6E4C13?style=flat-square)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Interpreter Demo](media/mips_demo.gif)
 
-### Graphics & Systems
-![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=opengl)
-![GLFW](https://img.shields.io/badge/GLFW-000000?style=flat-square)
-![GLM](https://img.shields.io/badge/GLM-Math-4B6CB7?style=flat-square)
-![Shaders](https://img.shields.io/badge/GLSL-Shaders-8E44AD?style=flat-square)
+- Lexer → parser → executor pipeline
+- Instruction decoding and memory model
+- Built to deeply understand CPU-level execution
 
-### Tooling
-![Linux](https://img.shields.io/badge/Linux-Fedora-294172?style=flat-square&logo=fedora&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GDB](https://img.shields.io/badge/GDB-Debugger-333333?style=flat-square)
-![Make](https://img.shields.io/badge/Make-Build%20System-6D6D6D?style=flat-square)
+[Repository link]
 
 ---
 
-## 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 𝗣𝗵𝗶𝗹𝗼𝘀𝗼𝗽𝗵𝘆
+## 🧠 Languages & Tools
 
-- Prefer **clarity over cleverness**
-- Avoid black boxes until I understand them
-- Profiling before premature optimization
-- Code should be explainable on a whiteboard
+**Languages**
+- C++, C
+- MIPS Assembly
+- Python
+
+**Graphics / Systems**
+- OpenGL, GLSL
+- GLFW, GLM
+- GDB, Make
+
+**Environment**
+- Linux (Fedora)
+- Git / GitHub
 
 ---
 
-## 𝗦𝘁𝗮𝘁𝘀
+## 📘 Computer Science Coursework
 
-![Cole's GitHub stats](https://github-readme-stats.vercel.app/api?username=ctschwandt&show_icons=true&theme=tokyonight)
+- Data Structures & Algorithms
+- Computer Graphics
+- Computer Organization & Assembly
+- Operating Systems
+- Computer Networks
+- Software Engineering
 
 ---
 
-> “If I can’t explain it, I don’t understand it yet.”
+## 📐 Mathematics Coursework
+
+- Calculus I–III
+- Linear Algebra
+- Discrete Mathematics
+- Probability & Statistics
+
+---
+
+## 📬 Contact
+
+- GitHub: https://github.com/yourusername
+- Email: your.email@domain.com
