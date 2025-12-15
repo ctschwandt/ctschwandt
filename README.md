@@ -4,12 +4,7 @@
 
 # Hi, I’m Cole 👋
 
-I’m a Computer Science & Mathematics student focused on **low-level C++**, **interpreters**, and **performance-oriented systems work**.
-
-- 🧠 Parsing, execution models, memory representation  
-- ⚙️ Building projects from first principles  
-- 📉 Profiling, algorithmic complexity, optimization  
-- 🐧 Linux-first development workflow  
+I’m a Computer Science & Mathematics undergraduate focused on low-level C++, and performance-oriented systems work.
 
 ---
 
@@ -29,7 +24,7 @@ A full **MIPS32 interpreter built from scratch**.
 - Branching, labels, arithmetic, and control flow  
 - Interactive REPL for stepping through programs  
 
-🔗 Repo: https://github.com/YOUR_USERNAME/mips-interpreter
+🔗 Repo: https://github.com/ctschwandt/MIPS-Assembly-Interpreter
 
     </td>
     <td valign="top" width="35%">
@@ -60,7 +55,7 @@ A **systems-focused real-time project** (not a graphics showcase).
 - Visibility-based rendering for performance  
 - Real-time state management and debugging tools  
 
-🔗 Repo: https://github.com/YOUR_USERNAME/maze-fps
+🔗 Repo: https://github.com/ctschwandt/OpenGL-Maze-FPS
 
     </td>
     <td valign="top" width="35%">
@@ -84,14 +79,14 @@ A **systems-focused real-time project** (not a graphics showcase).
 
 ### 🧭 Quadtree Collision Simulator (C++, SDL)
 
-A performance-focused 2D simulation comparing collision strategies.
+A performance-focused 2D simulation comparing collision algorithms.
 
 - ~1000 elastic particle collisions  
 - Brute-force vs quadtree collision detection  
 - FPS benchmarking and algorithm comparison  
 - Optional vector-field effects  
 
-🔗 Repo: https://github.com/YOUR_USERNAME/quadtree-collision
+🔗 Repo: https://github.com/ctschwandt/Quadtree-Collision
 
     </td>
     <td valign="top" width="35%">
@@ -141,17 +136,18 @@ A marketplace-style web app for music gear.
 ## Languages & Tools
 
 **Core**
-- C++, Python, MIPS Assembly, SQL
+- C/C++, Python, MIPS Assembly, SQL, C#
 
 **Tooling**
 - Linux, Git, Make, GDB, AddressSanitizer (ASan)
 
+<!--
 Badges (optional):
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=000)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=fff)
-
+-->
 ---
 
 ## Coursework
@@ -167,6 +163,9 @@ Badges (optional):
 - Calculus I–III
 - Linear Algebra
 - Discrete Mathematics
+- Number Theory
+- Abstract Algebra
+- Differential Equations
 - Probability & Statistics
 
 ---
