@@ -1,47 +1,175 @@
-## Hi, I’m Cole 👋
+<!-- ========================= -->
+<!-- GitHub Profile README     -->
+<!-- ========================= -->
 
-I’m a Computer Science & Mathematics undergraduate who enjoys building low-level software. Most of my work lives close to the metal: C/C++, OpenGL, assembly, and performance-oriented systems code.
+# Hi, I’m Cole 👋
 
----
+I’m a Computer Science & Mathematics student focused on **low-level C++**, **interpreters**, and **performance-oriented systems work**.
 
-### 🧩 Things I’ve built
-
-#### 🖥️ MIPS Assembly Interpreter (C++)
-A full MIPS32 interpreter built from scratch.
-- Custom lexer + parser
-- Simulated register file and memory model
-- Branching, labels, arithmetic, and control flow
-- Interactive REPL for stepping through programs
-
-#### 🎮 OpenGL Maze FPS (C++, OpenGL)
-A first-person shooter inside a procedurally generated maze.
-- First-person + top-down camera modes
-- Enemy AI, projectiles, and collision detection
-- Visibility-based rendering for performance
-- Textured environments and dynamic gameplay
-
-#### ⚙️ Quadtree Collision Simulator (C++, SDL)
-A performance-focused 2D particle simulation.
-- 1000 elastic particle collisions
-- Brute-force vs quadtree collision detection
-- FPS benchmarking and algorithm comparison
-- Optional vector-field “whirlpool” effect
-
-#### 🌐 Talbook (Python, Flask, MySQL)
-A Facebook/Marketplace-style web app for music gear.
-- User accounts, posts, listings, and messaging
-- Designed relational schema with a teammate
-- Backend-heavy focus on data modeling and routing
+- 🧠 Parsing, execution models, memory representation  
+- ⚙️ Building projects from first principles  
+- 📉 Profiling, algorithmic complexity, optimization  
+- 🐧 Linux-first development workflow  
 
 ---
 
-### 🛠️ Tools I use
-- **Languages:** C/C++, Python, SQL, MIPS Assembly, C#  
-- **Graphics:** OpenGL, FreeGLUT, SDL  
-- **Backend / ML:** Flask, PyTorch, Stable-Baselines3  
-- **Tooling:** Linux, Git, Make, GDB, AddressSanitizer, Bash  
+## Things I’ve built
+
+<!-- ============ PROJECT 1 ============ -->
+<table>
+  <tr>
+    <td valign="top" width="65%">
+
+### 🖥️ MIPS Assembly Interpreter (C++)
+
+A full **MIPS32 interpreter built from scratch**.
+
+- Custom lexer + parser  
+- Simulated register file and memory model  
+- Branching, labels, arithmetic, and control flow  
+- Interactive REPL for stepping through programs  
+
+🔗 Repo: https://github.com/YOUR_USERNAME/mips-interpreter
+
+    </td>
+    <td valign="top" width="35%">
+
+<img
+  src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/gifs/mips.gif"
+  alt="MIPS Interpreter demo"
+  width="100%"
+/>
+
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- ============ PROJECT 2 ============ -->
+<table>
+  <tr>
+    <td valign="top" width="65%">
+
+### 🎮 Maze FPS (C++, OpenGL)
+
+A **systems-focused real-time project** (not a graphics showcase).
+
+- First-person + top-down camera modes  
+- Enemy AI, projectiles, collision detection  
+- Visibility-based rendering for performance  
+- Real-time state management and debugging tools  
+
+🔗 Repo: https://github.com/YOUR_USERNAME/maze-fps
+
+    </td>
+    <td valign="top" width="35%">
+
+<img
+  src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/gifs/maze.gif"
+  alt="Maze FPS demo"
+  width="100%"
+/>
+
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- ============ PROJECT 3 ============ -->
+<table>
+  <tr>
+    <td valign="top" width="65%">
+
+### 🧭 Quadtree Collision Simulator (C++, SDL)
+
+A performance-focused 2D simulation comparing collision strategies.
+
+- ~1000 elastic particle collisions  
+- Brute-force vs quadtree collision detection  
+- FPS benchmarking and algorithm comparison  
+- Optional vector-field effects  
+
+🔗 Repo: https://github.com/YOUR_USERNAME/quadtree-collision
+
+    </td>
+    <td valign="top" width="35%">
+
+<img
+  src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/gifs/quadtree.gif"
+  alt="Quadtree demo"
+  width="100%"
+/>
+
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- ============ PROJECT 4 (OPTIONAL) ============ -->
+<table>
+  <tr>
+    <td valign="top" width="65%">
+
+### 🎵 Talbook (Python, Flask, MySQL)
+
+A marketplace-style web app for music gear.
+
+- User accounts, listings, and messaging  
+- CRUD workflows + relational DB design  
+- Flask backend + SQL integration  
+
+🔗 Repo: https://github.com/YOUR_USERNAME/talbook
+
+    </td>
+    <td valign="top" width="35%">
+
+<img
+  src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/gifs/talbook.gif"
+  alt="Talbook demo"
+  width="100%"
+/>
+
+    </td>
+  </tr>
+</table>
 
 ---
 
-📫 **Contact:**  
-- LinkedIn: https://linkedin.com/in/ctschwandt  
+## Languages & Tools
+
+**Core**
+- C++, Python, MIPS Assembly, SQL
+
+**Tooling**
+- Linux, Git, Make, GDB, AddressSanitizer (ASan)
+
+Badges (optional):
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=000)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=fff)
+
+---
+
+## Coursework
+
+**Computer Science**
+- Advanced Algorithms & Data Structures
+- Operating Systems
+- Computer Systems / Assembly
+- Databases
+- Cryptography
+
+**Mathematics**
+- Calculus I–III
+- Linear Algebra
+- Discrete Mathematics
+- Probability & Statistics
+
+---
+
+## Contact
+- LinkedIn: https://www.linkedin.com/in/ctschwandt/
