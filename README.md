@@ -14,7 +14,7 @@ I’m a Computer Science & Mathematics undergraduate focused on **low-level C/C+
 <tr>
 <td valign="top" width="65%">
 
-<b><a href="https://github.com/ctschwandt/MIPS-Assembly-Interpreter">🖥️ MIPS Assembly Interpreter (C++)</a></b><br><br>
+<b><a href="https://github.com/ctschwandt/MIPS-Assembly-Interpreter">🖥️ MIPS Assembly Interpreter (C++)</a></b><br>
 
 A program that reads MIPS assembly code and executes it on a virtual simulation of a CPU.
 <ul>
@@ -40,7 +40,7 @@ A program that reads MIPS assembly code and executes it on a virtual simulation 
 <tr>
 <td valign="top" width="65%">
 
-<b><a href="https://github.com/ctschwandt/OpenGL-Maze-FPS">🎮 OpenGL Maze FPS (C++, OpenGL, FreeGLUT)</a></b><br><br>
+<b><a href="https://github.com/ctschwandt/OpenGL-Maze-FPS">🎮 OpenGL Maze FPS (C++, OpenGL, FreeGLUT)</a></b><br>
 
 A systems-oriented real-time 3D engine project.
 <ul>
@@ -65,7 +65,7 @@ A systems-oriented real-time 3D engine project.
 <tr>
 <td valign="top" width="65%">
 
-<b><a href="https://github.com/ctschwandt/Quadtree-Collision">🧭 Quadtree Collision Simulator (C++, SDL)</a></b><br><br>
+<b><a href="https://github.com/ctschwandt/Quadtree-Collision">🧭 Quadtree Collision Simulator (C++, SDL)</a></b><br>
 
 A <b>performance benchmarking simulation</b> comparing spatial partitioning strategies for collision detection.
 <ul>
@@ -89,7 +89,7 @@ A <b>performance benchmarking simulation</b> comparing spatial partitioning stra
 <tr>
 <td valign="top" width="65%">
 
-<b><a href="https://github.com/OladayoOyedeji/Talbook">🎵 Talbook (Python, Flask, MySQL)</a></b><br><br>
+<b><a href="https://github.com/OladayoOyedeji/Talbook">🎵 Talbook (Python, Flask, MySQL)</a></b><br>
 
 A <b>Facebook-Marketplace-style full-stack web application</b> for buying and selling music gear.
 <ul>
