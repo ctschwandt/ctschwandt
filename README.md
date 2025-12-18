@@ -14,7 +14,7 @@ I’m a Computer Science & Mathematics undergraduate focused on **low-level C/C+
 <tr>
 <td valign="top" width="65%">
 
-<b>🖥️ MIPS Assembly Interpreter (C++)</b><br><br>
+<b><a href="https://github.com/ctschwandt/MIPS-Assembly-Interpreter">🖥️ MIPS Assembly Interpreter (C++)</a></b><br><br>
 
 A program that reads MIPS assembly code and executes it on a virtual simulation of a CPU.
 <ul>
@@ -24,8 +24,6 @@ A program that reads MIPS assembly code and executes it on a virtual simulation 
 <li>Simulated register file and byte-addressable memory model</li>
 <li>Interactive REPL and file-based execution with live register and data segment inspection</li>
 </ul>
-
-<a href="https://github.com/ctschwandt/MIPS-Assembly-Interpreter">View repository</a>
 
 </td>
 <td valign="top" width="35%">
@@ -42,16 +40,15 @@ A program that reads MIPS assembly code and executes it on a virtual simulation 
 <tr>
 <td valign="top" width="65%">
 
-<b>🎮 OpenGL Maze FPS (C++, OpenGL, FreeGLUT)</b><br><br>
+<b><a href="https://github.com/ctschwandt/OpenGL-Maze-FPS">🎮 OpenGL Maze FPS (C++, OpenGL, FreeGLUT)</a></b><br><br>
 
 A systems-oriented real-time 3D engine project.
+<ul>
 <li>Procedurally generated mazes with textured geometry and dual camera modes</li>
 <li>Animated skyboxes driven by Perlin noise and Diamond–Square fractals</li>
 <li>Core engine systems including player physics, shooting mechanics, enemy AI, and collision detection</li>
 <li>Tile-based visibility raycasting to cull walls, enemies, and projectiles outside the player’s field of view</li>
 </ul>
-
-<a href="https://github.com/ctschwandt/OpenGL-Maze-FPS">View repository</a>
 
 </td>
 <td valign="top" width="35%">
@@ -68,7 +65,7 @@ A systems-oriented real-time 3D engine project.
 <tr>
 <td valign="top" width="65%">
 
-<b>🧭 Quadtree Collision Simulator (C++, SDL)</b><br><br>
+<b><a href="https://github.com/ctschwandt/Quadtree-Collision">🧭 Quadtree Collision Simulator (C++, SDL)</a></b><br><br>
 
 A <b>performance benchmarking simulation</b> comparing spatial partitioning strategies for collision detection.
 <ul>
@@ -76,8 +73,6 @@ A <b>performance benchmarking simulation</b> comparing spatial partitioning stra
 <li>Brute-force versus quadtree-based collision detection implementations</li>
 <li>Integrated FPS benchmarking to empirically evaluate algorithmic performance</li>
 </ul>
-
-<a href="https://github.com/ctschwandt/Quadtree-Collision">View repository</a>
 
 </td>
 <td valign="top" width="35%">
@@ -94,7 +89,7 @@ A <b>performance benchmarking simulation</b> comparing spatial partitioning stra
 <tr>
 <td valign="top" width="65%">
 
-<b>🎵 Talbook (Python, Flask, MySQL)</b><br><br>
+<b><a href="https://github.com/OladayoOyedeji/Talbook">🎵 Talbook (Python, Flask, MySQL)</a></b><br><br>
 
 A <b>Facebook-Marketplace-style full-stack web application</b> for buying and selling music gear.
 <ul>
@@ -102,8 +97,6 @@ A <b>Facebook-Marketplace-style full-stack web application</b> for buying and se
 <li>Designed and integrated a relational MySQL schema for users, items, and messaging</li>
 <li>Built both backend services and frontend views using Flask templates and SQL queries</li>
 </ul>
-
-<a href="https://github.com/OladayoOyedeji/Talbook">View repository</a>
 
 </td>
 <td valign="top" width="35%">
@@ -125,7 +118,7 @@ Tools: Linux, Git, Make, GDB, AddressSanitizer (ASan)
 
 ## Coursework
 
-Computer Science: Advanced Algorithms & Data Structures, Computer Graphics, Computer Systems & Assembly, Operating Systems, Cryptography, Databases,   
+Computer Science: Advanced Algorithms & Data Structures, Computer Graphics, Computer Systems & Assembly, Operating Systems, Cryptography, Databases  
 Mathematics: Calculus I–III, Linear Algebra, Discrete Mathematics, Number Theory, Abstract Algebra, Differential Equations, Probability & Statistics
 
 ---
