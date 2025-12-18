@@ -16,7 +16,7 @@ I’m a Computer Science & Mathematics undergraduate focused on **low-level C/C+
 
 <b>🖥️ MIPS Assembly Interpreter (C++)</b><br><br>
 
-A <b>from-scratch MIPS32 assembly interpreter</b> emphasizing instruction semantics and low-level systems design.
+A program that reads MIPS assembly code and executes it on a virtual simulation of a CPU.
 <ul>
 <li>Supports arithmetic, memory access, labels, and control-flow instructions</li>
 <li>DFA-based lexer and custom parser for tokenization and syntax handling</li>
@@ -44,8 +44,7 @@ A <b>from-scratch MIPS32 assembly interpreter</b> emphasizing instruction semant
 
 <b>🎮 OpenGL Maze FPS (C++, OpenGL, FreeGLUT)</b><br><br>
 
-A <b>systems-oriented real-time 3D engine project</b> focused on performance and engine architecture rather than visual fidelity.
-<ul>
+A systems-oriented real-time 3D engine project.
 <li>Procedurally generated mazes with textured geometry and dual camera modes</li>
 <li>Animated skyboxes driven by Perlin noise and Diamond–Square fractals</li>
 <li>Core engine systems including player physics, shooting mechanics, enemy AI, and collision detection</li>
@@ -73,10 +72,9 @@ A <b>systems-oriented real-time 3D engine project</b> focused on performance and
 
 A <b>performance benchmarking simulation</b> comparing spatial partitioning strategies for collision detection.
 <ul>
-<li>2D particle simulation with up to ~1000 dynamically colliding particles</li>
+<li>2D particle simulation with 1000+ dynamically colliding particles</li>
 <li>Brute-force versus quadtree-based collision detection implementations</li>
-<li>Integrated FPS benchmarking to empirically evaluate algorithmic tradeoffs</li>
-<li>Designed to isolate and measure collision-system performance</li>
+<li>Integrated FPS benchmarking to empirically evaluate algorithmic performance</li>
 </ul>
 
 <a href="https://github.com/ctschwandt/Quadtree-Collision">View repository</a>
@@ -98,14 +96,14 @@ A <b>performance benchmarking simulation</b> comparing spatial partitioning stra
 
 <b>🎵 Talbook (Python, Flask, MySQL)</b><br><br>
 
-A <b>marketplace-style web application</b> for buying and selling music gear.
+A <b>Facebook-Marketplace-style full-stack web application</b> for buying and selling music gear.
 <ul>
-<li>Implemented listings, user feeds, and direct messaging</li>
-<li>Designed and integrated a relational MySQL schema</li>
-<li>Backend built with Flask supporting CRUD workflows and search functionality</li>
+<li>Implemented end-to-end features including listings, user feeds, and direct messaging</li>
+<li>Designed and integrated a relational MySQL schema for users, items, and messaging</li>
+<li>Built both backend services and frontend views using Flask templates and SQL queries</li>
 </ul>
 
-<a href="https://github.com/ctschwandt/talbook">View repository</a>
+<a href="https://github.com/OladayoOyedeji/Talbook">View repository</a>
 
 </td>
 <td valign="top" width="35%">
@@ -118,37 +116,17 @@ A <b>marketplace-style web application</b> for buying and selling music gear.
 
 ---
 
-## Languages & Tools
+## Technical Skills
 
-<b>Core</b><br>
-C / C++, Python, MIPS Assembly, SQL, C#
-
-<b>Tooling</b><br>
-Linux, Git, Make, GDB, AddressSanitizer (ASan), Valgrind
+Languages: C / C++, Python, MIPS Assembly, SQL, C#, Java  
+Tools: Linux, Git, Make, GDB, AddressSanitizer (ASan)
 
 ---
 
 ## Coursework
 
-<b>Computer Science</b>
-<ul>
-<li>Advanced Algorithms & Data Structures</li>
-<li>Operating Systems</li>
-<li>Computer Systems & Assembly</li>
-<li>Databases</li>
-<li>Cryptography</li>
-</ul>
-
-<b>Mathematics</b>
-<ul>
-<li>Calculus I–III</li>
-<li>Linear Algebra</li>
-<li>Discrete Mathematics</li>
-<li>Number Theory</li>
-<li>Abstract Algebra</li>
-<li>Differential Equations</li>
-<li>Probability & Statistics</li>
-</ul>
+Computer Science: Advanced Algorithms & Data Structures, Computer Graphics, Computer Systems & Assembly, Operating Systems, Cryptography, Databases,   
+Mathematics: Calculus I–III, Linear Algebra, Discrete Mathematics, Number Theory, Abstract Algebra, Differential Equations, Probability & Statistics
 
 ---
 
