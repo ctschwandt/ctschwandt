@@ -29,7 +29,7 @@ A full <b>MIPS32 interpreter built from scratch</b>.
 </td>
 <td valign="top" width="35%">
 
-<img src="assets/images/maze1.png" width="100%" alt="MIPS Interpreter"/>
+<img src="assets/images/mips1.png" width="100%" alt="MIPS Interpreter"/>
 
 </td>
 </tr>
@@ -56,7 +56,7 @@ A <b>systems-focused real-time project</b> (not a graphics showcase).
 </td>
 <td valign="top" width="35%">
 
-<img src="assets/images/maze2.png" width="100%" alt="Maze FPS"/>
+<img src="assets/images/maze1.png" width="100%" alt="Maze FPS"/>
 
 </td>
 </tr>
