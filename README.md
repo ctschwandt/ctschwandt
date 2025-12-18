@@ -30,14 +30,15 @@ A full <b>MIPS32 interpreter built from scratch</b>.
 </td>
 <td valign="top" width="35%">
 
-<table cellspacing="6" cellpadding="0" border="0">
+<!-- 2x2 grid that occupies ~the same space as a single image -->
+<table cellspacing="0" cellpadding="0" border="0" width="100%">
 <tr>
-<td><img src="assets/images/maze1.png" alt="Maze 1" width="100%"></td>
-<td><img src="assets/images/maze2.png" alt="Maze 2" width="100%"></td>
+<td width="50%" style="padding:0;"><img src="assets/images/maze1.png" alt="Maze 1" style="display:block;width:100%;height:auto;"></td>
+<td width="50%" style="padding:0;"><img src="assets/images/maze2.png" alt="Maze 2" style="display:block;width:100%;height:auto;"></td>
 </tr>
 <tr>
-<td><img src="assets/images/maze3.png" alt="Maze 3" width="100%"></td>
-<td><img src="assets/images/maze4.png" alt="Maze 4" width="100%"></td>
+<td width="50%" style="padding:0;"><img src="assets/images/maze3.png" alt="Maze 3" style="display:block;width:100%;height:auto;"></td>
+<td width="50%" style="padding:0;"><img src="assets/images/maze4.png" alt="Maze 4" style="display:block;width:100%;height:auto;"></td>
 </tr>
 </table>
 
@@ -67,14 +68,14 @@ A <b>systems-focused real-time project</b> (not a graphics showcase).
 </td>
 <td valign="top" width="35%">
 
-<table cellspacing="6" cellpadding="0" border="0">
+<table cellspacing="0" cellpadding="0" border="0" width="100%">
 <tr>
-<td><img src="assets/images/maze1.png" alt="Maze 1" width="100%"></td>
-<td><img src="assets/images/maze2.png" alt="Maze 2" width="100%"></td>
+<td width="50%" style="padding:0;"><img src="assets/images/maze1.png" alt="Maze 1" style="display:block;width:100%;height:auto;"></td>
+<td width="50%" style="padding:0;"><img src="assets/images/maze2.png" alt="Maze 2" style="display:block;width:100%;height:auto;"></td>
 </tr>
 <tr>
-<td><img src="assets/images/maze3.png" alt="Maze 3" width="100%"></td>
-<td><img src="assets/images/maze4.png" alt="Maze 4" width="100%"></td>
+<td width="50%" style="padding:0;"><img src="assets/images/maze3.png" alt="Maze 3" style="display:block;width:100%;height:auto;"></td>
+<td width="50%" style="padding:0;"><img src="assets/images/maze4.png" alt="Maze 4" style="display:block;width:100%;height:auto;"></td>
 </tr>
 </table>
 
@@ -104,14 +105,14 @@ A performance-focused 2D simulation comparing collision strategies.
 </td>
 <td valign="top" width="35%">
 
-<table cellspacing="6" cellpadding="0" border="0">
+<table cellspacing="0" cellpadding="0" border="0" width="100%">
 <tr>
-<td><img src="assets/images/maze1.png" alt="Maze 1" width="100%"></td>
-<td><img src="assets/images/maze2.png" alt="Maze 2" width="100%"></td>
+<td width="50%" style="padding:0;"><img src="assets/images/maze1.png" alt="Maze 1" style="display:block;width:100%;height:auto;"></td>
+<td width="50%" style="padding:0;"><img src="assets/images/maze2.png" alt="Maze 2" style="display:block;width:100%;height:auto;"></td>
 </tr>
 <tr>
-<td><img src="assets/images/maze3.png" alt="Maze 3" width="100%"></td>
-<td><img src="assets/images/maze4.png" alt="Maze 4" width="100%"></td>
+<td width="50%" style="padding:0;"><img src="assets/images/maze3.png" alt="Maze 3" style="display:block;width:100%;height:auto;"></td>
+<td width="50%" style="padding:0;"><img src="assets/images/maze4.png" alt="Maze 4" style="display:block;width:100%;height:auto;"></td>
 </tr>
 </table>
 
@@ -140,14 +141,14 @@ A marketplace-style web application for music gear.
 </td>
 <td valign="top" width="35%">
 
-<table cellspacing="6" cellpadding="0" border="0">
+<table cellspacing="0" cellpadding="0" border="0" width="100%">
 <tr>
-<td><img src="assets/images/maze1.png" alt="Maze 1" width="100%"></td>
-<td><img src="assets/images/maze2.png" alt="Maze 2" width="100%"></td>
+<td width="50%" style="padding:0;"><img src="assets/images/maze1.png" alt="Maze 1" style="display:block;width:100%;height:auto;"></td>
+<td width="50%" style="padding:0;"><img src="assets/images/maze2.png" alt="Maze 2" style="display:block;width:100%;height:auto;"></td>
 </tr>
 <tr>
-<td><img src="assets/images/maze3.png" alt="Maze 3" width="100%"></td>
-<td><img src="assets/images/maze4.png" alt="Maze 4" width="100%"></td>
+<td width="50%" style="padding:0;"><img src="assets/images/maze3.png" alt="Maze 3" style="display:block;width:100%;height:auto;"></td>
+<td width="50%" style="padding:0;"><img src="assets/images/maze4.png" alt="Maze 4" style="display:block;width:100%;height:auto;"></td>
 </tr>
 </table>
 
