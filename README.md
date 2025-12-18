@@ -83,7 +83,7 @@ A performance-focused 2D simulation comparing collision strategies.
 </td>
 <td valign="top" width="35%">
 
-<img src="assets/images/maze3.png" width="100%" alt="Quadtree Simulation"/>
+<img src="assets/images/quad1.png" width="100%" alt="Quadtree Simulation"/>
 
 </td>
 </tr>
@@ -109,7 +109,7 @@ A marketplace-style web application for music gear.
 </td>
 <td valign="top" width="35%">
 
-<img src="assets/images/maze4.png" width="100%" alt="Talbook"/>
+<img src="assets/images/talbook1.png" width="100%" alt="Talbook"/>
 
 </td>
 </tr>
