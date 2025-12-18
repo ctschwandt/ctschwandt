@@ -10,6 +10,7 @@ I’m a Computer Science & Mathematics undergraduate focused on low-level C++, s
 
 ## Things I’ve built
 
+<!-- ============ PROJECT 1 ============ -->
 <table>
 <tr>
 <td valign="top" width="65%">
@@ -29,7 +30,16 @@ A full <b>MIPS32 interpreter built from scratch</b>.
 </td>
 <td valign="top" width="35%">
 
-<img src="assets/images/maze1.png" width="100%" alt="MIPS Interpreter"/>
+<table cellspacing="6" cellpadding="0" border="0">
+<tr>
+<td><img src="assets/images/maze1.png" alt="Maze 1" width="100%"></td>
+<td><img src="assets/images/maze2.png" alt="Maze 2" width="100%"></td>
+</tr>
+<tr>
+<td><img src="assets/images/maze3.png" alt="Maze 3" width="100%"></td>
+<td><img src="assets/images/maze4.png" alt="Maze 4" width="100%"></td>
+</tr>
+</table>
 
 </td>
 </tr>
@@ -37,6 +47,7 @@ A full <b>MIPS32 interpreter built from scratch</b>.
 
 <br>
 
+<!-- ============ PROJECT 2 ============ -->
 <table>
 <tr>
 <td valign="top" width="65%">
@@ -56,7 +67,16 @@ A <b>systems-focused real-time project</b> (not a graphics showcase).
 </td>
 <td valign="top" width="35%">
 
-<img src="assets/images/maze2.png" width="100%" alt="Maze FPS"/>
+<table cellspacing="6" cellpadding="0" border="0">
+<tr>
+<td><img src="assets/images/maze1.png" alt="Maze 1" width="100%"></td>
+<td><img src="assets/images/maze2.png" alt="Maze 2" width="100%"></td>
+</tr>
+<tr>
+<td><img src="assets/images/maze3.png" alt="Maze 3" width="100%"></td>
+<td><img src="assets/images/maze4.png" alt="Maze 4" width="100%"></td>
+</tr>
+</table>
 
 </td>
 </tr>
@@ -64,6 +84,7 @@ A <b>systems-focused real-time project</b> (not a graphics showcase).
 
 <br>
 
+<!-- ============ PROJECT 3 ============ -->
 <table>
 <tr>
 <td valign="top" width="65%">
@@ -83,7 +104,16 @@ A performance-focused 2D simulation comparing collision strategies.
 </td>
 <td valign="top" width="35%">
 
-<img src="assets/images/maze3.png" width="100%" alt="Quadtree Simulation"/>
+<table cellspacing="6" cellpadding="0" border="0">
+<tr>
+<td><img src="assets/images/maze1.png" alt="Maze 1" width="100%"></td>
+<td><img src="assets/images/maze2.png" alt="Maze 2" width="100%"></td>
+</tr>
+<tr>
+<td><img src="assets/images/maze3.png" alt="Maze 3" width="100%"></td>
+<td><img src="assets/images/maze4.png" alt="Maze 4" width="100%"></td>
+</tr>
+</table>
 
 </td>
 </tr>
@@ -91,6 +121,7 @@ A performance-focused 2D simulation comparing collision strategies.
 
 <br>
 
+<!-- ============ PROJECT 4 ============ -->
 <table>
 <tr>
 <td valign="top" width="65%">
@@ -101,4 +132,65 @@ A marketplace-style web application for music gear.
 <ul>
 <li>User accounts, listings, and messaging</li>
 <li>Full CRUD workflows and relational database design</li>
-<li>Flask backend
+<li>Flask backend with SQL integration</li>
+</ul>
+
+<a href="https://github.com/ctschwandt/talbook">View repository</a>
+
+</td>
+<td valign="top" width="35%">
+
+<table cellspacing="6" cellpadding="0" border="0">
+<tr>
+<td><img src="assets/images/maze1.png" alt="Maze 1" width="100%"></td>
+<td><img src="assets/images/maze2.png" alt="Maze 2" width="100%"></td>
+</tr>
+<tr>
+<td><img src="assets/images/maze3.png" alt="Maze 3" width="100%"></td>
+<td><img src="assets/images/maze4.png" alt="Maze 4" width="100%"></td>
+</tr>
+</table>
+
+</td>
+</tr>
+</table>
+
+---
+
+## Languages & Tools
+
+<b>Core</b><br>
+C / C++, Python, MIPS Assembly, SQL, C#
+
+<b>Tooling</b><br>
+Linux, Git, Make, GDB, AddressSanitizer (ASan), Valgrind
+
+---
+
+## Coursework
+
+<b>Computer Science</b>
+<ul>
+<li>Advanced Algorithms & Data Structures</li>
+<li>Operating Systems</li>
+<li>Computer Systems & Assembly</li>
+<li>Databases</li>
+<li>Cryptography</li>
+</ul>
+
+<b>Mathematics</b>
+<ul>
+<li>Calculus I–III</li>
+<li>Linear Algebra</li>
+<li>Discrete Mathematics</li>
+<li>Number Theory</li>
+<li>Abstract Algebra</li>
+<li>Differential Equations</li>
+<li>Probability & Statistics</li>
+</ul>
+
+---
+
+## Contact
+
+<a href="https://www.linkedin.com/in/ctschwandt/">LinkedIn</a>
