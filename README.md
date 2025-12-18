@@ -10,7 +10,6 @@ I’m a Computer Science & Mathematics undergraduate focused on low-level C++, s
 
 ## Things I’ve built
 
-<!-- ============ PROJECT 1 ============ -->
 <table>
 <tr>
 <td valign="top" width="65%">
@@ -28,21 +27,9 @@ A full <b>MIPS32 interpreter built from scratch</b>.
 <a href="https://github.com/ctschwandt/MIPS-Assembly-Interpreter">View repository</a>
 
 </td>
-<td valign="top" width="35%" align="right">
+<td valign="top" width="35%">
 
-<!-- Mosaic cap: change 240px to taste (e.g., 200px) -->
-<div style="width:240px; max-width:240px;">
-  <table cellspacing="2" cellpadding="0" border="0" style="border-collapse:collapse; width:240px;">
-    <tr>
-      <td style="padding:0;"><img src="assets/images/maze1.png" alt="Maze 1" width="119" style="display:block;"></td>
-      <td style="padding:0;"><img src="assets/images/maze2.png" alt="Maze 2" width="119" style="display:block;"></td>
-    </tr>
-    <tr>
-      <td style="padding:0;"><img src="assets/images/maze3.png" alt="Maze 3" width="119" style="display:block;"></td>
-      <td style="padding:0;"><img src="assets/images/maze4.png" alt="Maze 4" width="119" style="display:block;"></td>
-    </tr>
-  </table>
-</div>
+<img src="assets/images/maze1.png" width="100%" alt="MIPS Interpreter"/>
 
 </td>
 </tr>
@@ -50,7 +37,6 @@ A full <b>MIPS32 interpreter built from scratch</b>.
 
 <br>
 
-<!-- ============ PROJECT 2 ============ -->
 <table>
 <tr>
 <td valign="top" width="65%">
@@ -68,20 +54,9 @@ A <b>systems-focused real-time project</b> (not a graphics showcase).
 <a href="https://github.com/ctschwandt/OpenGL-Maze-FPS">View repository</a>
 
 </td>
-<td valign="top" width="35%" align="right">
+<td valign="top" width="35%">
 
-<div style="width:240px; max-width:240px;">
-  <table cellspacing="2" cellpadding="0" border="0" style="border-collapse:collapse; width:240px;">
-    <tr>
-      <td style="padding:0;"><img src="assets/images/maze1.png" alt="Maze 1" width="119" style="display:block;"></td>
-      <td style="padding:0;"><img src="assets/images/maze2.png" alt="Maze 2" width="119" style="display:block;"></td>
-    </tr>
-    <tr>
-      <td style="padding:0;"><img src="assets/images/maze3.png" alt="Maze 3" width="119" style="display:block;"></td>
-      <td style="padding:0;"><img src="assets/images/maze4.png" alt="Maze 4" width="119" style="display:block;"></td>
-    </tr>
-  </table>
-</div>
+<img src="assets/images/maze2.png" width="100%" alt="Maze FPS"/>
 
 </td>
 </tr>
@@ -89,7 +64,6 @@ A <b>systems-focused real-time project</b> (not a graphics showcase).
 
 <br>
 
-<!-- ============ PROJECT 3 ============ -->
 <table>
 <tr>
 <td valign="top" width="65%">
@@ -107,20 +81,9 @@ A performance-focused 2D simulation comparing collision strategies.
 <a href="https://github.com/ctschwandt/Quadtree-Collision">View repository</a>
 
 </td>
-<td valign="top" width="35%" align="right">
+<td valign="top" width="35%">
 
-<div style="width:240px; max-width:240px;">
-  <table cellspacing="2" cellpadding="0" border="0" style="border-collapse:collapse; width:240px;">
-    <tr>
-      <td style="padding:0;"><img src="assets/images/maze1.png" alt="Maze 1" width="119" style="display:block;"></td>
-      <td style="padding:0;"><img src="assets/images/maze2.png" alt="Maze 2" width="119" style="display:block;"></td>
-    </tr>
-    <tr>
-      <td style="padding:0;"><img src="assets/images/maze3.png" alt="Maze 3" width="119" style="display:block;"></td>
-      <td style="padding:0;"><img src="assets/images/maze4.png" alt="Maze 4" width="119" style="display:block;"></td>
-    </tr>
-  </table>
-</div>
+<img src="assets/images/maze3.png" width="100%" alt="Quadtree Simulation"/>
 
 </td>
 </tr>
@@ -128,7 +91,6 @@ A performance-focused 2D simulation comparing collision strategies.
 
 <br>
 
-<!-- ============ PROJECT 4 ============ -->
 <table>
 <tr>
 <td valign="top" width="65%">
@@ -145,20 +107,9 @@ A marketplace-style web application for music gear.
 <a href="https://github.com/ctschwandt/talbook">View repository</a>
 
 </td>
-<td valign="top" width="35%" align="right">
+<td valign="top" width="35%">
 
-<div style="width:240px; max-width:240px;">
-  <table cellspacing="2" cellpadding="0" border="0" style="border-collapse:collapse; width:240px;">
-    <tr>
-      <td style="padding:0;"><img src="assets/images/maze1.png" alt="Maze 1" width="119" style="display:block;"></td>
-      <td style="padding:0;"><img src="assets/images/maze2.png" alt="Maze 2" width="119" style="display:block;"></td>
-    </tr>
-    <tr>
-      <td style="padding:0;"><img src="assets/images/maze3.png" alt="Maze 3" width="119" style="display:block;"></td>
-      <td style="padding:0;"><img src="assets/images/maze4.png" alt="Maze 4" width="119" style="display:block;"></td>
-    </tr>
-  </table>
-</div>
+<img src="assets/images/maze4.png" width="100%" alt="Talbook"/>
 
 </td>
 </tr>
