@@ -4,7 +4,7 @@
 
 # Hi, I’m Cole 👋
 
-I’m a Computer Science & Mathematics undergraduate focused on low-level C++, and performance-oriented systems work.
+I’m a **Computer Science & Mathematics undergraduate** focused on **low-level C++**, systems programming, and performance-oriented software design.
 
 ---
 
@@ -17,23 +17,22 @@ I’m a Computer Science & Mathematics undergraduate focused on low-level C++, a
 
 ### 🖥️ MIPS Assembly Interpreter (C++)
 
-A full **MIPS32 interpreter built from scratch**.
+A full **MIPS32 interpreter built from scratch**, designed to mirror real CPU execution semantics.
 
-- Custom lexer + parser  
+- Custom lexer and hand-written parser  
 - Simulated register file and memory model  
-- Branching, labels, arithmetic, and control flow  
-- Interactive REPL for stepping through programs  
+- Arithmetic, branching, labels, and control-flow instructions  
+- Pseudo-instruction expansion and interactive REPL  
 
 🔗 Repo: https://github.com/ctschwandt/MIPS-Assembly-Interpreter
 
     </td>
     <td valign="top" width="35%">
 
-<img
-  src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/gifs/mips.gif"
-  alt="MIPS Interpreter demo"
-  width="100%"
-/>
+<img src="https://raw.githubusercontent.com/ctschwandt/ctschwandt/main/assets/images/maze1.png" width="100%" />
+<img src="https://raw.githubusercontent.com/ctschwandt/ctschwandt/main/assets/images/maze2.png" width="100%" />
+<img src="https://raw.githubusercontent.com/ctschwandt/ctschwandt/main/assets/images/maze3.png" width="100%" />
+<img src="https://raw.githubusercontent.com/ctschwandt/ctschwandt/main/assets/images/maze4.png" width="100%" />
 
     </td>
   </tr>
@@ -46,25 +45,24 @@ A full **MIPS32 interpreter built from scratch**.
   <tr>
     <td valign="top" width="65%">
 
-### 🎮 Maze FPS (C++, OpenGL)
+### 🎮 OpenGL Maze FPS (C++, OpenGL)
 
-A **systems-focused real-time project** (not a graphics showcase).
+A **systems-driven real-time project** emphasizing engine architecture over visual fidelity.
 
-- First-person + top-down camera modes  
+- First-person and bird’s-eye camera modes  
 - Enemy AI, projectiles, collision detection  
-- Visibility-based rendering for performance  
-- Real-time state management and debugging tools  
+- View-based visibility culling for performance  
+- Real-time state inspection and debugging tools  
 
 🔗 Repo: https://github.com/ctschwandt/OpenGL-Maze-FPS
 
     </td>
     <td valign="top" width="35%">
 
-<img
-  src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/gifs/maze.gif"
-  alt="Maze FPS demo"
-  width="100%"
-/>
+<img src="https://raw.githubusercontent.com/ctschwandt/ctschwandt/main/assets/images/maze1.png" width="100%" />
+<img src="https://raw.githubusercontent.com/ctschwandt/ctschwandt/main/assets/images/maze2.png" width="100%" />
+<img src="https://raw.githubusercontent.com/ctschwandt/ctschwandt/main/assets/images/maze3.png" width="100%" />
+<img src="https://raw.githubusercontent.com/ctschwandt/ctschwandt/main/assets/images/maze4.png" width="100%" />
 
     </td>
   </tr>
@@ -79,11 +77,11 @@ A **systems-focused real-time project** (not a graphics showcase).
 
 ### 🧭 Quadtree Collision Simulator (C++, SDL)
 
-A performance-focused 2D simulation comparing collision algorithms.
+A performance-focused 2D simulation comparing spatial partitioning strategies.
 
 - ~1000 elastic particle collisions  
 - Brute-force vs quadtree collision detection  
-- FPS benchmarking and algorithm comparison  
+- FPS benchmarking and algorithm analysis  
 - Optional vector-field effects  
 
 🔗 Repo: https://github.com/ctschwandt/Quadtree-Collision
@@ -91,11 +89,10 @@ A performance-focused 2D simulation comparing collision algorithms.
     </td>
     <td valign="top" width="35%">
 
-<img
-  src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/gifs/quadtree.gif"
-  alt="Quadtree demo"
-  width="100%"
-/>
+<img src="https://raw.githubusercontent.com/ctschwandt/ctschwandt/main/assets/images/maze1.png" width="100%" />
+<img src="https://raw.githubusercontent.com/ctschwandt/ctschwandt/main/assets/images/maze2.png" width="100%" />
+<img src="https://raw.githubusercontent.com/ctschwandt/ctschwandt/main/assets/images/maze3.png" width="100%" />
+<img src="https://raw.githubusercontent.com/ctschwandt/ctschwandt/main/assets/images/maze4.png" width="100%" />
 
     </td>
   </tr>
@@ -103,29 +100,28 @@ A performance-focused 2D simulation comparing collision algorithms.
 
 <br/>
 
-<!-- ============ PROJECT 4 (OPTIONAL) ============ -->
+<!-- ============ PROJECT 4 ============ -->
 <table>
   <tr>
     <td valign="top" width="65%">
 
 ### 🎵 Talbook (Python, Flask, MySQL)
 
-A marketplace-style web app for music gear.
+A marketplace-style web application for music equipment.
 
 - User accounts, listings, and messaging  
-- CRUD workflows + relational DB design  
-- Flask backend + SQL integration  
+- Full CRUD workflows with relational schema design  
+- Flask backend with SQL integration  
 
-🔗 Repo: https://github.com/YOUR_USERNAME/talbook
+🔗 Repo: https://github.com/ctschwandt/talbook
 
     </td>
     <td valign="top" width="35%">
 
-<img
-  src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/gifs/talbook.gif"
-  alt="Talbook demo"
-  width="100%"
-/>
+<img src="https://raw.githubusercontent.com/ctschwandt/ctschwandt/main/assets/images/maze1.png" width="100%" />
+<img src="https://raw.githubusercontent.com/ctschwandt/ctschwandt/main/assets/images/maze2.png" width="100%" />
+<img src="https://raw.githubusercontent.com/ctschwandt/ctschwandt/main/assets/images/maze3.png" width="100%" />
+<img src="https://raw.githubusercontent.com/ctschwandt/ctschwandt/main/assets/images/maze4.png" width="100%" />
 
     </td>
   </tr>
@@ -136,37 +132,31 @@ A marketplace-style web app for music gear.
 ## Languages & Tools
 
 **Core**
-- C/C++, Python, MIPS Assembly, SQL, C#
+- C / C++, Python, MIPS Assembly, SQL, C#
 
 **Tooling**
-- Linux, Git, Make, GDB, AddressSanitizer (ASan)
+- Linux, Git, Make, GDB  
+- AddressSanitizer (ASan), Valgrind  
 
-<!--
-Badges (optional):
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=000)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=fff)
--->
 ---
 
 ## Coursework
 
 **Computer Science**
-- Advanced Algorithms & Data Structures
-- Operating Systems
-- Computer Systems / Assembly
-- Databases
-- Cryptography
+- Advanced Algorithms & Data Structures  
+- Operating Systems  
+- Computer Systems / Assembly  
+- Databases  
+- Cryptography  
 
 **Mathematics**
-- Calculus I–III
-- Linear Algebra
-- Discrete Mathematics
-- Number Theory
-- Abstract Algebra
-- Differential Equations
-- Probability & Statistics
+- Calculus I–III  
+- Linear Algebra  
+- Discrete Mathematics  
+- Number Theory  
+- Abstract Algebra  
+- Differential Equations  
+- Probability & Statistics  
 
 ---
 
