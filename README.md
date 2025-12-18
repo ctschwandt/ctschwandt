@@ -4,7 +4,7 @@
 
 # Hi, I’m Cole 👋
 
-I’m a **Computer Science & Mathematics undergraduate** focused on **low-level C++**, systems programming, and performance-oriented software design.
+I’m a Computer Science & Mathematics undergraduate focused on **low-level C++**, **systems programming**, and **performance-oriented software**.
 
 ---
 
@@ -17,10 +17,10 @@ I’m a **Computer Science & Mathematics undergraduate** focused on **low-level 
 
 ### 🖥️ MIPS Assembly Interpreter (C++)
 
-A full **MIPS32 interpreter built from scratch**, designed to mirror real CPU execution semantics.
+A full **MIPS32 interpreter built from scratch**.
 
 - Custom lexer and hand-written parser  
-- Simulated register file and memory model  
+- Simulated register file and byte-addressable memory  
 - Arithmetic, branching, labels, and control-flow instructions  
 - Pseudo-instruction expansion and interactive REPL  
 
@@ -29,10 +29,11 @@ A full **MIPS32 interpreter built from scratch**, designed to mirror real CPU ex
     </td>
     <td valign="top" width="35%">
 
-<img src="https://raw.githubusercontent.com/ctschwandt/ctschwandt/main/assets/images/maze1.png" width="100%" />
-<img src="https://raw.githubusercontent.com/ctschwandt/ctschwandt/main/assets/images/maze2.png" width="100%" />
-<img src="https://raw.githubusercontent.com/ctschwandt/ctschwandt/main/assets/images/maze3.png" width="100%" />
-<img src="https://raw.githubusercontent.com/ctschwandt/ctschwandt/main/assets/images/maze4.png" width="100%" />
+<img
+  src="assets/images/maze1.png"
+  alt="MIPS Interpreter visualization"
+  width="100%"
+/>
 
     </td>
   </tr>
@@ -47,22 +48,23 @@ A full **MIPS32 interpreter built from scratch**, designed to mirror real CPU ex
 
 ### 🎮 OpenGL Maze FPS (C++, OpenGL)
 
-A **systems-driven real-time project** emphasizing engine architecture over visual fidelity.
+A **systems-focused real-time project** (not a graphics showcase).
 
-- First-person and bird’s-eye camera modes  
-- Enemy AI, projectiles, collision detection  
-- View-based visibility culling for performance  
-- Real-time state inspection and debugging tools  
+- First-person and top-down camera modes  
+- Enemy AI, projectile systems, and collision detection  
+- Visibility-based rendering for performance optimization  
+- Custom input, timing, and real-time state management  
 
 🔗 Repo: https://github.com/ctschwandt/OpenGL-Maze-FPS
 
     </td>
     <td valign="top" width="35%">
 
-<img src="https://raw.githubusercontent.com/ctschwandt/ctschwandt/main/assets/images/maze1.png" width="100%" />
-<img src="https://raw.githubusercontent.com/ctschwandt/ctschwandt/main/assets/images/maze2.png" width="100%" />
-<img src="https://raw.githubusercontent.com/ctschwandt/ctschwandt/main/assets/images/maze3.png" width="100%" />
-<img src="https://raw.githubusercontent.com/ctschwandt/ctschwandt/main/assets/images/maze4.png" width="100%" />
+<img
+  src="assets/images/maze2.png"
+  alt="OpenGL Maze FPS"
+  width="100%"
+/>
 
     </td>
   </tr>
@@ -77,22 +79,23 @@ A **systems-driven real-time project** emphasizing engine architecture over visu
 
 ### 🧭 Quadtree Collision Simulator (C++, SDL)
 
-A performance-focused 2D simulation comparing spatial partitioning strategies.
+A performance-focused 2D simulation comparing collision-detection strategies.
 
 - ~1000 elastic particle collisions  
-- Brute-force vs quadtree collision detection  
-- FPS benchmarking and algorithm analysis  
-- Optional vector-field effects  
+- Brute-force vs quadtree-based collision detection  
+- FPS benchmarking and algorithmic tradeoff analysis  
+- Optional vector-field forces  
 
 🔗 Repo: https://github.com/ctschwandt/Quadtree-Collision
 
     </td>
     <td valign="top" width="35%">
 
-<img src="https://raw.githubusercontent.com/ctschwandt/ctschwandt/main/assets/images/maze1.png" width="100%" />
-<img src="https://raw.githubusercontent.com/ctschwandt/ctschwandt/main/assets/images/maze2.png" width="100%" />
-<img src="https://raw.githubusercontent.com/ctschwandt/ctschwandt/main/assets/images/maze3.png" width="100%" />
-<img src="https://raw.githubusercontent.com/ctschwandt/ctschwandt/main/assets/images/maze4.png" width="100%" />
+<img
+  src="assets/images/maze3.png"
+  alt="Quadtree collision simulation"
+  width="100%"
+/>
 
     </td>
   </tr>
@@ -107,10 +110,10 @@ A performance-focused 2D simulation comparing spatial partitioning strategies.
 
 ### 🎵 Talbook (Python, Flask, MySQL)
 
-A marketplace-style web application for music equipment.
+A marketplace-style web application for buying and selling music gear.
 
 - User accounts, listings, and messaging  
-- Full CRUD workflows with relational schema design  
+- Full CRUD workflows and relational database design  
 - Flask backend with SQL integration  
 
 🔗 Repo: https://github.com/ctschwandt/talbook
@@ -118,10 +121,11 @@ A marketplace-style web application for music equipment.
     </td>
     <td valign="top" width="35%">
 
-<img src="https://raw.githubusercontent.com/ctschwandt/ctschwandt/main/assets/images/maze1.png" width="100%" />
-<img src="https://raw.githubusercontent.com/ctschwandt/ctschwandt/main/assets/images/maze2.png" width="100%" />
-<img src="https://raw.githubusercontent.com/ctschwandt/ctschwandt/main/assets/images/maze3.png" width="100%" />
-<img src="https://raw.githubusercontent.com/ctschwandt/ctschwandt/main/assets/images/maze4.png" width="100%" />
+<img
+  src="assets/images/maze4.png"
+  alt="Talbook web application"
+  width="100%"
+/>
 
     </td>
   </tr>
@@ -135,8 +139,7 @@ A marketplace-style web application for music equipment.
 - C / C++, Python, MIPS Assembly, SQL, C#
 
 **Tooling**
-- Linux, Git, Make, GDB  
-- AddressSanitizer (ASan), Valgrind  
+- Linux, Git, Make, GDB, AddressSanitizer (ASan), Valgrind
 
 ---
 
@@ -145,7 +148,7 @@ A marketplace-style web application for music equipment.
 **Computer Science**
 - Advanced Algorithms & Data Structures  
 - Operating Systems  
-- Computer Systems / Assembly  
+- Computer Systems & Assembly  
 - Databases  
 - Cryptography  
 
@@ -161,4 +164,5 @@ A marketplace-style web application for music equipment.
 ---
 
 ## Contact
+
 - LinkedIn: https://www.linkedin.com/in/ctschwandt/
