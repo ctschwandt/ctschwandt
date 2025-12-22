@@ -8,7 +8,7 @@ I’m a Computer Science & Mathematics undergraduate focused on **low-level C/C+
 
 ---
 
-## Things I’ve built
+## Some things I’ve built
 
 <table>
 <tr>
